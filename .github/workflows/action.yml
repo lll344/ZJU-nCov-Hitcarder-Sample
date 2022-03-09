@@ -16,8 +16,8 @@ jobs:
             password: ZJU_PASSWORD
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
-          - username: 0619171
-            password: sxh820820
+          - username: ZJU_USERNAME2
+            password: ZJU_PASSWORD2
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
     steps:
