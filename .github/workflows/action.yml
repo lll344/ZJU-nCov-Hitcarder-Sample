@@ -16,6 +16,10 @@ jobs:
             password: ZJU_PASSWORD
             dingtalk_token: DINGTALK_TOKEN
             serverchan_key: SERVERCHAN_KEY
+          - username: 0619171
+            password: sxh820820
+            dingtalk_token: DINGTALK_TOKEN
+            serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Working
         uses: Long0x0/zju-ncov-hitcarder@master
